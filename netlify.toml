@@ -1,0 +1,3 @@
+[build]
+  # The site's static files live in the bellomind/ subfolder
+  publish = "bellomind"
